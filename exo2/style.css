@@ -1,0 +1,196 @@
+div
+{
+	width: 994px;
+}
+
+h1
+{
+	font-size: 52px;
+	font-family: "Dosis", sans-serif;
+	color: #505050;
+	margin-bottom: 3px;
+	width: 600px;
+}
+
+header
+{
+	margin: 0px 47px;
+}
+
+header p
+{
+	width: 300px;
+	display: inline-block;
+	margin-bottom: 25px;
+}
+
+header img
+{
+	border-bottom: 1px solid #E4E3E0;
+	width: 34px;
+	height: 22px;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	left: 560px;
+}
+
+nav .nav .nav-item
+{
+	display: inline-block;
+}
+
+.nav-item a
+{
+	text-decoration: none;
+	color: #606060;
+	display: block;
+}
+
+.nav a:hover
+{
+	color: black;
+}
+
+.nav-item
+{
+	position: relative;
+	margin: 20px 20px;	
+}
+.nav-item ul
+{
+	display: none;
+	position: absolute;
+	left: -75px;
+	margin-top: 25px;
+}
+.nav-item:hover ul
+{
+	display: block;
+}
+nav ul .sub-nav
+{
+    display: inline-block;
+	color: #606060;
+	border: 1px solid black;
+	margin: 0px 20px;
+}
+
+.sub-nav-item
+{
+	list-style: none none;
+	white-space: nowrap;
+	height: 33px;
+    background-color: #F5F5F5;
+    width: 150px;
+    text-align: center;
+}
+
+
+.nav 
+{
+    border-top: 1px solid #E4E3E0;
+    border-bottom: 1px solid #E4E3E0;
+    background-color: #F5F5F5;
+    width: 860px;
+    height: 59px;
+    list-style: none none;
+	margin: 0px 47px;
+}
+
+
+nav
+{
+	margin-bottom: 25px;
+
+}
+
+article
+{
+	margin: 0px 47px;
+}
+
+article img
+{
+	width: 900px;
+}
+
+h6
+{
+	color: #A6A6A6;
+	text-align: center;
+}
+
+
+article h2
+{
+		text-align: center;
+	font-family: "Dosis", sans-serif;#A6A6A6
+}
+
+article p
+{
+	font-family: helvetica;
+	font-size: 13px;
+	color: #606060;
+	margin-top: 30px;
+}
+
+section
+{
+	margin: 0px 47px;
+	font-size: 13px;
+	color: #606060;
+}
+
+section p
+{
+	border-top: 1px solid #E4E3E0;
+	border-bottom: 1px solid #E4E3E0;
+	height: 40px;
+    background-color: #F5F5F5;
+}
+
+section h2
+{
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+footer
+{
+	margin: 0px 47px;
+	border-top: 1px solid #E4E3E0;
+    background-color: #F5F5F5;
+    font-size: 13px;
+    height: 235px;
+}
+
+footer ul li 
+{
+	list-style: none;
+}
+
+footer ul
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	text-transform: capitalize;
+}
+
+footer a
+{
+	text-decoration: none;
+	color: #505050;
+}
+
+.g
+{
+	font-weight: bold;
+	font-family: "dosis", sans-serif;
+	margin-bottom: 20px;
+	text-transform: capitalize;
+}

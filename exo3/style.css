@@ -1,0 +1,191 @@
+body
+{
+	width: 1280px;
+}
+
+nav 
+{
+	height: 104px;
+}
+
+nav h1
+{
+	display: inline-block;
+	margin-left: 110px;
+	font-size: 40px;
+}
+
+.green
+{
+	color:  #27AE61;
+}
+
+nav ul
+{
+	display: inline-block;
+	margin-left: 200px;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin: 0px 20px;
+	text-transform: uppercase; 
+	color: #656565;
+}
+
+header, #sec_deux
+{
+	background-color:  #27AE61;
+	color:  #2B3F48;
+	text-align: center;
+}
+
+header, #sec_deux p
+{
+	color: #656565;
+
+}
+
+.texte h1
+{
+	color: #ffffff;
+	margin-bottom: -10px;
+}
+
+.texte h4
+{
+	color: rgba(255,255,255,.8);
+	margin-bottom: 70px;
+}
+
+.texte p
+{
+	color:rgba(255,255,255,.8);
+	font-size: 17px;
+	margin-bottom: 80px;
+	margin-top: 0px;
+	width: 950px;
+	margin-left: 165px;
+
+}
+#sec_un
+{
+	height: 640px;
+	color:  #2B3F48;
+	text-align: center;
+}
+
+#sec_un h4
+{
+ 	margin-top: -20px;
+ 	margin-bottom: 80px;
+	font-size: 22px;
+
+
+}
+#sec_un p
+{
+ 	margin-bottom: 90px;
+ 	width: 950px;
+ 	margin-left: 165px;
+}
+
+#sec_un, #sec_deux h1
+{
+	margin-bottom: -48px;
+	padding-top: 70px;
+}
+
+#sec_deux
+{
+	height: 640px;
+}
+ #sec_deux h4
+{
+	margin-top: 70px;
+	margin-bottom: 80px;
+	color: rgba(255,255,255,.8);
+	font-size: 22px;
+
+}
+
+#sec_deux p
+{
+ 	margin-bottom: 90px;
+ 	width: 950px;
+ 	margin-left: 165px;
+	color:rgba(255,255,255,.8);
+}
+
+.parent
+{
+	width: 1280px;
+	height: 930px;
+	position: relative;
+}
+
+.photo
+{
+	border-radius: 50%;
+	height: 160px;
+	margin-top: 220px;
+	margin-right: 50px;
+}
+
+.tt_photo
+{
+	width: 1280px;
+	height: 930px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+}
+
+.texte
+{
+	width: 1280px;
+	height: 930px;
+	left: 0px;
+	position: absolute;
+
+	top: 470px;
+	text-align: center;
+}
+
+.button
+{
+	background-color: #2b3f48;
+	border-radius: 10px;
+	text-decoration: none;
+	color: #ffffff;
+	width: 270px;
+	display: inline-block;
+	padding: 30px 0 ;
+	text-transform: uppercase;
+}
+
+#sec_un .button
+{
+	background-color: #27ae61;
+}
+
+#sec_deux .button
+{
+	background-color: #ffffff;
+	color: #27ae61;
+}
+
+h1
+{
+	font-size: 55px;
+}
+
+footer
+{
+	height: 150px;
+	text-align: center;
+	padding: 68px 0;
+	text-transform: uppercase;
+}
